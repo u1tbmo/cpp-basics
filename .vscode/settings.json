@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "tbmo"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
