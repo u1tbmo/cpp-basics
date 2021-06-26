@@ -1,5 +1,6 @@
 //Variables by u1tbmo
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main(){
