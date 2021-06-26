@@ -24,7 +24,7 @@ Use the data type 'string'.
 
 ## Numbers
 
-Use the data types 'int', 'float', and 'num'.
+Use the data types 'int', 'float', and 'double'.
 
 ## User Input
 
