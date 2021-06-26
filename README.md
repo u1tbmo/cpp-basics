@@ -2,6 +2,10 @@
 
 My Personal Project files containing the basics of C++
 
-## Hello World!
+## Printing a line
 
 Print a line of output displaying "Hello, World!"
+
+## Printing multiple lines
+
+Print multiple lines of output.
