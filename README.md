@@ -77,7 +77,7 @@ Create comments which are not executable by a machine.
 
 ## Pointers
 
-Use pointers to create memory addresses.
+Use pointers to store memory addresses.
 
 ## Classes and Objects
 
