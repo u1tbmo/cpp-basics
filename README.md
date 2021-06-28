@@ -67,9 +67,9 @@ Create an exponent function will take a number value to a power.
 
 Use 2D Arrays where the elements of an array is an array.
 
-## Nested For Loops
+## Nested Loops
 
-Use Nested Loops where a for loop contains another for loop.
+Use Nested Loops to print a 2d array's elements.
 
 ## Comments
 
@@ -77,7 +77,7 @@ Create comments which are not executable by a machine.
 
 ## Pointers
 
-Use pointers to create memory addresses.
+Use pointers to store memory addresses.
 
 ## Classes and Objects
 
